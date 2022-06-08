@@ -1,0 +1,41 @@
+.form {
+  text-align: center;
+  direction: rtl;
+}
+.names {
+  margin-left: 1.8%;
+  background-color: burlywood;
+  width: 13.09%;
+}
+.last {
+  margin-top: 0.5%;
+  margin-left: 1.7%;
+  background-color: burlywood;
+  width: 13.19%;
+}
+.emails {
+  margin-top: 0.5%;
+  margin-left: 0.6%;
+  background-color: burlywood;
+  width: 14.26%;
+}
+.quest {
+  margin-top: 0.5%;
+  background-color: burlywood;
+  width: 14.88%;
+}
+#h1 {
+  background-color: aqua;
+  width: 8%;
+}
+.bod {
+  background-color: blanchedalmond;
+}
+#sub {
+  background-color: lime;
+  cursor: pointer;
+}
+.submit {
+  margin-top: 2%;
+  margin-left: 5%;
+}
